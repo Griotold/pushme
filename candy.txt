@@ -1,0 +1,7 @@
+candy list
+
+----
+
+strawberry candy
+chocolate candy
+vanilla candy
